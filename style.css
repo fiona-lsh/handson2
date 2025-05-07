@@ -14,11 +14,11 @@ padding-bottom: 20px;
 }
 */
 h1 {
-    color: red;
+    color: rgb(221, 78, 38);
 }
 .title {
-    background-color: gray;
+    background-color: rgb(223, 187, 133);
 }
 #important {
-    color: rgb(0, 255, 234);
+    color: rgb(52, 9, 222);
 }
